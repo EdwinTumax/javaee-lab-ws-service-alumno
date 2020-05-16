@@ -1,0 +1,7 @@
+edu\kalum\ws\alumno\core\models\dao\AlumnoDao.class
+edu\kalum\ws\alumno\core\models\entity\Alumno.class
+edu\kalum\ws\alumno\core\models\service\AlumnoService.class
+edu\kalum\ws\alumno\core\models\service\AlumnoServiceImpl.class
+edu\kalum\ws\alumno\core\models\service\AlumnoServiceWS.class
+edu\kalum\ws\alumno\core\models\dao\AlumnoDaoImpl.class
+edu\kalum\ws\alumno\core\App.class
